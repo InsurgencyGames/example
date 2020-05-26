@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1109517887, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 1
+  lastUpdatedAtString: 2020-05-25T14:39:18.386-03:00
+  initializedAtString: 2020-05-18T18:27:48.363-03:00
+  currentGitRemote:
+    name: origin
+    url: https://github.com/InsurgencyGames/weekly.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  currentGitBranch:
+    name: task-do-dia
+    tracking: origin/task-do-dia
+  currentConfigBranch:
+    name: task-do-dia
+    remote:
+      name: origin
+      url: https://github.com/InsurgencyGames/weekly.git
+    trackingBranch: task-do-dia
+  currentConfigRemote:
+    name: origin
+    url: https://github.com/InsurgencyGames/weekly.git
+  currentHead: 
