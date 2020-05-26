@@ -13,9 +13,1283 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-05-26T13:06:24.195-03:00
+  lastUpdatedAtString: 2020-05-26T14:04:16.092-03:00
   initializedAtString: 2020-05-26T11:39:53.240-03:00
   log:
+  - commitID: dceecbb8bc658e6dc191533b91695c301408aaed
+    mergeA: 
+    mergeB: 
+    authorName: AlexandreARXS
+    authorEmail: alexandrearxs@gmail.com
+    commitEmail: alexandrearxs@gmail.com
+    commitName: AlexandreARXS
+    summary: "adi\xE7\xE3o dos ultimos itens"
+    description: 
+    timeString: 2020-05-26T13:17:04.000-03:00
+    commitTimeString: 2020-05-26T13:17:04.000-03:00
+    changes:
+    - path: Assets\Personagem 2\Jump_Throw__000.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Jump_Throw__000.png
+      projectPath: Assets\Personagem 2\Jump_Throw__000.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Jump_Throw__000.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Jump_Throw__000.png.meta
+      projectPath: Assets\Personagem 2\Jump_Throw__000.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Jump_Throw__001.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Jump_Throw__001.png
+      projectPath: Assets\Personagem 2\Jump_Throw__001.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Jump_Throw__001.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Jump_Throw__001.png.meta
+      projectPath: Assets\Personagem 2\Jump_Throw__001.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Jump_Throw__002.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Jump_Throw__002.png
+      projectPath: Assets\Personagem 2\Jump_Throw__002.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Jump_Throw__002.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Jump_Throw__002.png.meta
+      projectPath: Assets\Personagem 2\Jump_Throw__002.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Jump_Throw__003.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Jump_Throw__003.png
+      projectPath: Assets\Personagem 2\Jump_Throw__003.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Jump_Throw__003.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Jump_Throw__003.png.meta
+      projectPath: Assets\Personagem 2\Jump_Throw__003.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Jump_Throw__004.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Jump_Throw__004.png
+      projectPath: Assets\Personagem 2\Jump_Throw__004.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Jump_Throw__004.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Jump_Throw__004.png.meta
+      projectPath: Assets\Personagem 2\Jump_Throw__004.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Jump_Throw__005.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Jump_Throw__005.png
+      projectPath: Assets\Personagem 2\Jump_Throw__005.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Jump_Throw__005.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Jump_Throw__005.png.meta
+      projectPath: Assets\Personagem 2\Jump_Throw__005.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Jump_Throw__006.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Jump_Throw__006.png
+      projectPath: Assets\Personagem 2\Jump_Throw__006.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Jump_Throw__006.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Jump_Throw__006.png.meta
+      projectPath: Assets\Personagem 2\Jump_Throw__006.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Jump_Throw__007.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Jump_Throw__007.png
+      projectPath: Assets\Personagem 2\Jump_Throw__007.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Jump_Throw__007.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Jump_Throw__007.png.meta
+      projectPath: Assets\Personagem 2\Jump_Throw__007.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Jump_Throw__008.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Jump_Throw__008.png
+      projectPath: Assets\Personagem 2\Jump_Throw__008.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Jump_Throw__008.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Jump_Throw__008.png.meta
+      projectPath: Assets\Personagem 2\Jump_Throw__008.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Jump_Throw__009.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Jump_Throw__009.png
+      projectPath: Assets\Personagem 2\Jump_Throw__009.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Jump_Throw__009.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Jump_Throw__009.png.meta
+      projectPath: Assets\Personagem 2\Jump_Throw__009.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Run__000.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Run__000.png
+      projectPath: Assets\Personagem 2\Run__000.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Run__000.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Run__000.png.meta
+      projectPath: Assets\Personagem 2\Run__000.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Run__001.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Run__001.png
+      projectPath: Assets\Personagem 2\Run__001.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Run__001.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Run__001.png.meta
+      projectPath: Assets\Personagem 2\Run__001.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Run__002.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Run__002.png
+      projectPath: Assets\Personagem 2\Run__002.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Run__002.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Run__002.png.meta
+      projectPath: Assets\Personagem 2\Run__002.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Run__003.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Run__003.png
+      projectPath: Assets\Personagem 2\Run__003.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Run__003.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Run__003.png.meta
+      projectPath: Assets\Personagem 2\Run__003.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Run__004.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Run__004.png
+      projectPath: Assets\Personagem 2\Run__004.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Run__004.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Run__004.png.meta
+      projectPath: Assets\Personagem 2\Run__004.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Run__005.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Run__005.png
+      projectPath: Assets\Personagem 2\Run__005.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Run__005.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Run__005.png.meta
+      projectPath: Assets\Personagem 2\Run__005.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Run__006.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Run__006.png
+      projectPath: Assets\Personagem 2\Run__006.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Run__006.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Run__006.png.meta
+      projectPath: Assets\Personagem 2\Run__006.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Run__007.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Run__007.png
+      projectPath: Assets\Personagem 2\Run__007.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Run__007.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Run__007.png.meta
+      projectPath: Assets\Personagem 2\Run__007.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Run__008.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Run__008.png
+      projectPath: Assets\Personagem 2\Run__008.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Run__008.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Run__008.png.meta
+      projectPath: Assets\Personagem 2\Run__008.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Run__009.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Run__009.png
+      projectPath: Assets\Personagem 2\Run__009.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Run__009.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Run__009.png.meta
+      projectPath: Assets\Personagem 2\Run__009.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Slide__000.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Slide__000.png
+      projectPath: Assets\Personagem 2\Slide__000.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Slide__000.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Slide__000.png.meta
+      projectPath: Assets\Personagem 2\Slide__000.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Slide__001.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Slide__001.png
+      projectPath: Assets\Personagem 2\Slide__001.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Slide__001.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Slide__001.png.meta
+      projectPath: Assets\Personagem 2\Slide__001.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Slide__002.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Slide__002.png
+      projectPath: Assets\Personagem 2\Slide__002.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Slide__002.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Slide__002.png.meta
+      projectPath: Assets\Personagem 2\Slide__002.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Slide__003.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Slide__003.png
+      projectPath: Assets\Personagem 2\Slide__003.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Slide__003.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Slide__003.png.meta
+      projectPath: Assets\Personagem 2\Slide__003.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Slide__004.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Slide__004.png
+      projectPath: Assets\Personagem 2\Slide__004.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Slide__004.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Slide__004.png.meta
+      projectPath: Assets\Personagem 2\Slide__004.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Slide__005.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Slide__005.png
+      projectPath: Assets\Personagem 2\Slide__005.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Slide__005.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Slide__005.png.meta
+      projectPath: Assets\Personagem 2\Slide__005.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Slide__006.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Slide__006.png
+      projectPath: Assets\Personagem 2\Slide__006.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Slide__006.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Slide__006.png.meta
+      projectPath: Assets\Personagem 2\Slide__006.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Slide__007.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Slide__007.png
+      projectPath: Assets\Personagem 2\Slide__007.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Slide__007.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Slide__007.png.meta
+      projectPath: Assets\Personagem 2\Slide__007.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Slide__008.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Slide__008.png
+      projectPath: Assets\Personagem 2\Slide__008.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Slide__008.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Slide__008.png.meta
+      projectPath: Assets\Personagem 2\Slide__008.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Slide__009.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Slide__009.png
+      projectPath: Assets\Personagem 2\Slide__009.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Slide__009.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Slide__009.png.meta
+      projectPath: Assets\Personagem 2\Slide__009.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Throw__000.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Throw__000.png
+      projectPath: Assets\Personagem 2\Throw__000.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Throw__000.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Throw__000.png.meta
+      projectPath: Assets\Personagem 2\Throw__000.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Throw__001.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Throw__001.png
+      projectPath: Assets\Personagem 2\Throw__001.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Throw__001.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Throw__001.png.meta
+      projectPath: Assets\Personagem 2\Throw__001.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Throw__002.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Throw__002.png
+      projectPath: Assets\Personagem 2\Throw__002.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Throw__002.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Throw__002.png.meta
+      projectPath: Assets\Personagem 2\Throw__002.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Throw__003.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Throw__003.png
+      projectPath: Assets\Personagem 2\Throw__003.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Throw__003.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Throw__003.png.meta
+      projectPath: Assets\Personagem 2\Throw__003.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Throw__004.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Throw__004.png
+      projectPath: Assets\Personagem 2\Throw__004.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Throw__004.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Throw__004.png.meta
+      projectPath: Assets\Personagem 2\Throw__004.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Throw__005.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Throw__005.png
+      projectPath: Assets\Personagem 2\Throw__005.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Throw__005.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Throw__005.png.meta
+      projectPath: Assets\Personagem 2\Throw__005.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Throw__006.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Throw__006.png
+      projectPath: Assets\Personagem 2\Throw__006.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Throw__006.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Throw__006.png.meta
+      projectPath: Assets\Personagem 2\Throw__006.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Throw__007.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Throw__007.png
+      projectPath: Assets\Personagem 2\Throw__007.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Throw__007.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Throw__007.png.meta
+      projectPath: Assets\Personagem 2\Throw__007.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Throw__008.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Throw__008.png
+      projectPath: Assets\Personagem 2\Throw__008.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Throw__008.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Throw__008.png.meta
+      projectPath: Assets\Personagem 2\Throw__008.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Throw__009.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Throw__009.png
+      projectPath: Assets\Personagem 2\Throw__009.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Personagem 2\Throw__009.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Personagem
+        2\Throw__009.png.meta
+      projectPath: Assets\Personagem 2\Throw__009.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileMap\1.asset.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\TileMap\1.asset.meta
+      projectPath: Assets\TileMap\1.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileMap\10.asset.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\TileMap\10.asset.meta
+      projectPath: Assets\TileMap\10.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileMap\11.asset.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\TileMap\11.asset.meta
+      projectPath: Assets\TileMap\11.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileMap\12.asset.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\TileMap\12.asset.meta
+      projectPath: Assets\TileMap\12.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileMap\13.asset.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\TileMap\13.asset.meta
+      projectPath: Assets\TileMap\13.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileMap\14.asset.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\TileMap\14.asset.meta
+      projectPath: Assets\TileMap\14.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileMap\15.asset.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\TileMap\15.asset.meta
+      projectPath: Assets\TileMap\15.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileMap\16.asset.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\TileMap\16.asset.meta
+      projectPath: Assets\TileMap\16.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileMap\17.asset.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\TileMap\17.asset.meta
+      projectPath: Assets\TileMap\17.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileMap\18.asset.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\TileMap\18.asset.meta
+      projectPath: Assets\TileMap\18.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileMap\2.asset.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\TileMap\2.asset.meta
+      projectPath: Assets\TileMap\2.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileMap\3.asset.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\TileMap\3.asset.meta
+      projectPath: Assets\TileMap\3.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileMap\4.asset.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\TileMap\4.asset.meta
+      projectPath: Assets\TileMap\4.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileMap\5.asset.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\TileMap\5.asset.meta
+      projectPath: Assets\TileMap\5.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileMap\6.asset.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\TileMap\6.asset.meta
+      projectPath: Assets\TileMap\6.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileMap\7.asset.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\TileMap\7.asset.meta
+      projectPath: Assets\TileMap\7.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileMap\8.asset.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\TileMap\8.asset.meta
+      projectPath: Assets\TileMap\8.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileMap\9.asset.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\TileMap\9.asset.meta
+      projectPath: Assets\TileMap\9.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileMap\B1.asset.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\TileMap\B1.asset.meta
+      projectPath: Assets\TileMap\B1.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileMap\B2.asset.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\TileMap\B2.asset.meta
+      projectPath: Assets\TileMap\B2.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileMap\B3.asset.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\TileMap\B3.asset.meta
+      projectPath: Assets\TileMap\B3.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileMap\B4.asset.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\TileMap\B4.asset.meta
+      projectPath: Assets\TileMap\B4.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileMap\Crate.asset.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\TileMap\Crate.asset.meta
+      projectPath: Assets\TileMap\Crate.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileMap\Items.prefab.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\TileMap\Items.prefab.meta
+      projectPath: Assets\TileMap\Items.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileMap\Kunai.asset.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\TileMap\Kunai.asset.meta
+      projectPath: Assets\TileMap\Kunai.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileMap\Mushroom_1.asset.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\TileMap\Mushroom_1.asset.meta
+      projectPath: Assets\TileMap\Mushroom_1.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileMap\Mushroom_2.asset.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\TileMap\Mushroom_2.asset.meta
+      projectPath: Assets\TileMap\Mushroom_2.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileMap\Plataformas.prefab.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\TileMap\Plataformas.prefab.meta
+      projectPath: Assets\TileMap\Plataformas.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileMap\Sign_1.asset.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\TileMap\Sign_1.asset.meta
+      projectPath: Assets\TileMap\Sign_1.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileMap\Sign_2.asset.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\TileMap\Sign_2.asset.meta
+      projectPath: Assets\TileMap\Sign_2.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileMap\Stone.asset.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\TileMap\Stone.asset.meta
+      projectPath: Assets\TileMap\Stone.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileMap\Tree_1.asset.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\TileMap\Tree_1.asset.meta
+      projectPath: Assets\TileMap\Tree_1.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileMap\Tree_2.asset.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\TileMap\Tree_2.asset.meta
+      projectPath: Assets\TileMap\Tree_2.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileMap\Tree_3.asset.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\TileMap\Tree_3.asset.meta
+      projectPath: Assets\TileMap\Tree_3.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileMap\gem.asset.meta
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\TileMap\gem.asset.meta
+      projectPath: Assets\TileMap\gem.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-a66805b8b6f6b37489a966e7a2b3d3c2
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Temp\UnityTempFile-a66805b8b6f6b37489a966e7a2b3d3c2
+      projectPath: Temp\UnityTempFile-a66805b8b6f6b37489a966e7a2b3d3c2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 30cbddbf34496e3579ba730d944b2b938c6cd287
+    mergeA: 
+    mergeB: 
+    authorName: AlexandreARXS
+    authorEmail: alexandrearxs@gmail.com
+    commitEmail: alexandrearxs@gmail.com
+    commitName: AlexandreARXS
+    summary: "remo\xE7\xE3o de arquivos a mais"
+    description: 
+    timeString: 2020-05-26T13:10:19.000-03:00
+    commitTimeString: 2020-05-26T13:10:19.000-03:00
+    changes:
+    - path: Projeto Insurgency\Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Projeto Insurgency\Assets\Scenes\SampleScene.unity
+      projectPath: Projeto Insurgency\Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Projeto Insurgency\Library\AnnotationManager
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Projeto Insurgency\Library\AnnotationManager
+      projectPath: Projeto Insurgency\Library\AnnotationManager
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Projeto Insurgency\Library\ArtifactDB
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Projeto Insurgency\Library\ArtifactDB
+      projectPath: Projeto Insurgency\Library\ArtifactDB
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Projeto Insurgency\Library\ArtifactDB-lock
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Projeto Insurgency\Library\ArtifactDB-lock
+      projectPath: Projeto Insurgency\Library\ArtifactDB-lock
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Projeto Insurgency\Library\AssetImportState
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Projeto Insurgency\Library\AssetImportState
+      projectPath: Projeto Insurgency\Library\AssetImportState
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Projeto Insurgency\Library\BuildPlayer.prefs
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Projeto Insurgency\Library\BuildPlayer.prefs
+      projectPath: Projeto Insurgency\Library\BuildPlayer.prefs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Projeto Insurgency\Library\BuildSettings.asset
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Projeto Insurgency\Library\BuildSettings.asset
+      projectPath: Projeto Insurgency\Library\BuildSettings.asset
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Projeto Insurgency\Library\CurrentLayout-default.dwlt
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Projeto Insurgency\Library\CurrentLayout-default.dwlt
+      projectPath: Projeto Insurgency\Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Projeto Insurgency\Library\EditorOnlyScriptingSettings.json
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Projeto Insurgency\Library\EditorOnlyScriptingSettings.json
+      projectPath: Projeto Insurgency\Library\EditorOnlyScriptingSettings.json
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Projeto Insurgency\Library\EditorSnapSettings.asset
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Projeto Insurgency\Library\EditorSnapSettings.asset
+      projectPath: Projeto Insurgency\Library\EditorSnapSettings.asset
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Projeto Insurgency\Library\EditorUserBuildSettings.asset
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Projeto Insurgency\Library\EditorUserBuildSettings.asset
+      projectPath: Projeto Insurgency\Library\EditorUserBuildSettings.asset
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
   - commitID: 908a8f1a34e4e69c744df12b40379f8d9acb601a
     mergeA: 
     mergeB: 

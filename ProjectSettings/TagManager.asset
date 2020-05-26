@@ -9,6 +9,8 @@ TagManager:
   - Mudanca
   - Plataforma
   - Inimigos
+  - Trampolim
+  - Checkpoint
   layers:
   - Default
   - TransparentFX

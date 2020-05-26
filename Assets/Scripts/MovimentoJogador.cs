@@ -68,11 +68,15 @@ public class MovimentoJogador : MonoBehaviour
             gemas++;
             textGemas.text = gemas.ToString();
         }
+
+        if(collision2D.gameObject.CompareTag("Checkpoint")){
+            Debug.Log("Colidiu com " + collision2D.gameObject.name);
+        }
     }
 
     void OnCollisionEnter2D(Collision2D collision2D)
     {
-        if (collision2D.gameObject.CompareTag("Monstros")){
+        if (collision2D.gameObject.CompareTag("Inimigos")){
             //logica
         }
 
