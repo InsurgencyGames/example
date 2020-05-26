@@ -13,19 +13,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-05-18T18:27:48.384-03:00
-  initializedAtString: 2020-05-18T18:27:48.372-03:00
+  lastUpdatedAtString: 2020-05-26T12:46:06.028-03:00
+  initializedAtString: 2020-05-26T11:39:49.769-03:00
   localBranches:
   - name: master
     tracking: origin/master
-  - name: task-do-dia
-    tracking: origin/task-do-dia
   remoteBranches:
-  - name: origin/HEAD
+  - name: origin/master
     tracking: '[None]'
   remotes:
   - name: origin
-    url: https://github.com/InsurgencyGames/weekly.git
+    url: git@github.com:InsurgencyGames/example.git
     login: 
     user: 
     host: 
@@ -34,34 +32,28 @@ MonoBehaviour:
   localConfigBranches:
     keys:
     - master
-    - task-do-dia
     values:
     - name: master
       remote:
         name: origin
-        url: https://github.com/InsurgencyGames/weekly.git
+        url: git@github.com:InsurgencyGames/example.git
       trackingBranch: master
-    - name: task-do-dia
-      remote:
-        name: origin
-        url: https://github.com/InsurgencyGames/weekly.git
-      trackingBranch: task-do-dia
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
-      - HEAD
+      - master
     subKeyValues:
     - Values:
-      - name: HEAD
+      - name: master
         remote:
           name: origin
-          url: https://github.com/InsurgencyGames/weekly.git
+          url: git@github.com:InsurgencyGames/example.git
         trackingBranch: 
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: https://github.com/InsurgencyGames/weekly.git
+      url: git@github.com:InsurgencyGames/example.git

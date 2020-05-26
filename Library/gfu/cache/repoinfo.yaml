@@ -13,26 +13,26 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-05-25T14:39:18.386-03:00
-  initializedAtString: 2020-05-18T18:27:48.363-03:00
+  lastUpdatedAtString: 2020-05-26T11:32:53.469-03:00
+  initializedAtString: 2020-05-26T11:32:53.469-03:00
   currentGitRemote:
     name: origin
-    url: https://github.com/InsurgencyGames/weekly.git
+    url: git@github.com:InsurgencyGames/example.git
     login: 
     user: 
     host: 
     function: 0
     token: 
   currentGitBranch:
-    name: task-do-dia
-    tracking: origin/task-do-dia
+    name: master
+    tracking: origin/master
   currentConfigBranch:
-    name: task-do-dia
+    name: master
     remote:
       name: origin
-      url: https://github.com/InsurgencyGames/weekly.git
-    trackingBranch: task-do-dia
+      url: git@github.com:InsurgencyGames/example.git
+    trackingBranch: master
   currentConfigRemote:
     name: origin
-    url: https://github.com/InsurgencyGames/weekly.git
+    url: git@github.com:InsurgencyGames/example.git
   currentHead: 
