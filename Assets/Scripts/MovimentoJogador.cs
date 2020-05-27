@@ -16,6 +16,8 @@ public class MovimentoJogador : MonoBehaviour
 
     public bool isGrounded;
 
+    public GameObject lastCheckpoint;
+
     void Start()
     {
         textLives.text = vida.ToString();
@@ -70,14 +72,18 @@ public class MovimentoJogador : MonoBehaviour
         }
 
         if(collision2D.gameObject.CompareTag("Checkpoint")){
-            Debug.Log("Colidiu com " + collision2D.gameObject.name);
+            lastCheckpoint = collision2D.gameObject;
         }
     }
 
     void OnCollisionEnter2D(Collision2D collision2D)
     {
         if (collision2D.gameObject.CompareTag("Inimigos")){
-            //logica
+            vida --;
+            textLives.text=vida.ToString();
+            if(vida == 0){
+                transform.position = lastCheckpoint.transform.position;
+            }
         }
 
         if (collision2D.gameObject.CompareTag("Plataforma")){
