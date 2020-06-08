@@ -13,9 +13,213 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-05-27T14:47:32.263-03:00
-  initializedAtString: 2020-05-27T10:50:29.602-03:00
+  lastUpdatedAtString: 2020-06-08T11:03:54.265-03:00
+  initializedAtString: 2020-06-08T11:03:51.370-03:00
   log:
+  - commitID: 622e451899a48b0e57c1de0bd380537e855942e0
+    mergeA: 
+    mergeB: 
+    authorName: AlexandreARXS
+    authorEmail: alexandrearxs@gmail.com
+    commitEmail: alexandrearxs@gmail.com
+    commitName: AlexandreARXS
+    summary: arquivos unity
+    description: 
+    timeString: 2020-06-08T10:56:52.000-03:00
+    commitTimeString: 2020-06-08T10:56:52.000-03:00
+    changes:
+    - path: Library\ArtifactDB
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Collab\CollabSnapshot_a75bd9f9-4414-43bf-99af-5906c5a4749b.txt
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\Collab\CollabSnapshot_a75bd9f9-4414-43bf-99af-5906c5a4749b.txt
+      projectPath: Library\Collab\CollabSnapshot_a75bd9f9-4414-43bf-99af-5906c5a4749b.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\EditorInstance.json
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\Hierarchy\0961c0-mainStage.json
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\StateCache\Hierarchy\0961c0-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\0961c0-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\18f3e9-mainStage.json
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\StateCache\SceneView\18f3e9-mainStage.json
+      projectPath: Library\StateCache\SceneView\18f3e9-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: a807a7e3a77197237ba9bc7fbcf96eac3b968288
+    mergeA: 
+    mergeB: 
+    authorName: AlexandreARXS
+    authorEmail: alexandrearxs@gmail.com
+    commitEmail: alexandrearxs@gmail.com
+    commitName: AlexandreARXS
+    summary: "remo\xE7\xE3o de arquivos"
+    description: 
+    timeString: 2020-06-01T12:00:07.000-03:00
+    commitTimeString: 2020-06-01T12:00:07.000-03:00
+    changes:
+    - path: Library\Artifacts\1d\1dbf2a5c3e5deed9f49133ec17374117
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\Artifacts\1d\1dbf2a5c3e5deed9f49133ec17374117
+      projectPath: Library\Artifacts\1d\1dbf2a5c3e5deed9f49133ec17374117
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\41\4135a2baa4f8af6f0a08d7dc47aa9ded
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\Artifacts\41\4135a2baa4f8af6f0a08d7dc47aa9ded
+      projectPath: Library\Artifacts\41\4135a2baa4f8af6f0a08d7dc47aa9ded
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\42\42e2db26656ae7ec9771132b40e0b52e
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\Artifacts\42\42e2db26656ae7ec9771132b40e0b52e
+      projectPath: Library\Artifacts\42\42e2db26656ae7ec9771132b40e0b52e
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\ae\aed65f7b4b4e7f0227e0d5a2231b4b66
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\Artifacts\ae\aed65f7b4b4e7f0227e0d5a2231b4b66
+      projectPath: Library\Artifacts\ae\aed65f7b4b4e7f0227e0d5a2231b4b66
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\c7\c73fc5c61784ca8d257fd184b9e6f60e
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\Artifacts\c7\c73fc5c61784ca8d257fd184b9e6f60e
+      projectPath: Library\Artifacts\c7\c73fc5c61784ca8d257fd184b9e6f60e
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\c9\c984378765326b059dc4fc54206a3b22
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\Artifacts\c9\c984378765326b059dc4fc54206a3b22
+      projectPath: Library\Artifacts\c9\c984378765326b059dc4fc54206a3b22
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\cb\cb2112adffce1335e043bf5b7addfc4d
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\Artifacts\cb\cb2112adffce1335e043bf5b7addfc4d
+      projectPath: Library\Artifacts\cb\cb2112adffce1335e043bf5b7addfc4d
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\d0\d0854d673b1bdb3d61a0c0dd5295667a
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\Artifacts\d0\d0854d673b1bdb3d61a0c0dd5295667a
+      projectPath: Library\Artifacts\d0\d0854d673b1bdb3d61a0c0dd5295667a
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-0f1a754677194e74cbe4010abaf0ec1d
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Temp\UnityTempFile-0f1a754677194e74cbe4010abaf0ec1d
+      projectPath: Temp\UnityTempFile-0f1a754677194e74cbe4010abaf0ec1d
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-18e3b3bf297525545998fcbb7d9d9b8c
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Temp\UnityTempFile-18e3b3bf297525545998fcbb7d9d9b8c
+      projectPath: Temp\UnityTempFile-18e3b3bf297525545998fcbb7d9d9b8c
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-1cdab95d1a8eb7649a9578a256b2e1f9
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Temp\UnityTempFile-1cdab95d1a8eb7649a9578a256b2e1f9
+      projectPath: Temp\UnityTempFile-1cdab95d1a8eb7649a9578a256b2e1f9
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-5229389eb127f8243a1ae7841f37ee34
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Temp\UnityTempFile-5229389eb127f8243a1ae7841f37ee34
+      projectPath: Temp\UnityTempFile-5229389eb127f8243a1ae7841f37ee34
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-c113a3099fee35548b12536b8f43e6f4
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Temp\UnityTempFile-c113a3099fee35548b12536b8f43e6f4
+      projectPath: Temp\UnityTempFile-c113a3099fee35548b12536b8f43e6f4
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-dd553025796a2d849b41258373ad5aca
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Temp\UnityTempFile-dd553025796a2d849b41258373ad5aca
+      projectPath: Temp\UnityTempFile-dd553025796a2d849b41258373ad5aca
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-e2b200e079994894c81965ef2e0b51c3
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Temp\UnityTempFile-e2b200e079994894c81965ef2e0b51c3
+      projectPath: Temp\UnityTempFile-e2b200e079994894c81965ef2e0b51c3
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-f8a7c185a20aad24daa5ef65db3a61aa
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Temp\UnityTempFile-f8a7c185a20aad24daa5ef65db3a61aa
+      projectPath: Temp\UnityTempFile-f8a7c185a20aad24daa5ef65db3a61aa
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\__Backupscenes\0.backup
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Temp\__Backupscenes\0.backup
+      projectPath: Temp\__Backupscenes\0.backup
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
   - commitID: 76b6d259cd4f8e23459b765bc6c660155643bf6d
     mergeA: 
     mergeB: 

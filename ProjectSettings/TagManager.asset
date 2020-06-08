@@ -11,6 +11,7 @@ TagManager:
   - Inimigos
   - Trampolim
   - Checkpoint
+  - KillZone
   layers:
   - Default
   - TransparentFX

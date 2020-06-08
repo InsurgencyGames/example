@@ -86,6 +86,14 @@ public class MovimentoJogador : MonoBehaviour
             }
         }
 
+        if (collision2D.gameObject.CompareTag("KillZone")){
+            vida = 0;
+            textLives.text=vida.ToString();
+            if(vida == 0){
+                transform.position = lastCheckpoint.transform.position;
+            }
+        }
+
         if (collision2D.gameObject.CompareTag("Plataforma")){
             isGrounded = true;
         }
