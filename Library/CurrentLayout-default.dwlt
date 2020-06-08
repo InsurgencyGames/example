@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 266
+  controlID: 74
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -152,7 +152,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
 MonoBehaviour:
@@ -221,7 +221,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 92
+  controlID: 75
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -246,7 +246,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 67
+  controlID: 76
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -302,14 +302,14 @@ MonoBehaviour:
     width: 388
     height: 926
   m_ViewDataDictionary: {fileID: 0}
-  progressMessageClearTime: 9116.706380900001
+  progressMessageClearTime: -1
   notificationClearTime: -1
   timeSinceLastRotation: -1
   currentBranchAndRemoteHasUpdate: 0
   currentTrackingStatusHasUpdate: 1
   currentStatusEntriesHasUpdate: 1
   repositoryProgressHasUpdate: 1
-  appManagerProgressHasUpdate: 0
+  appManagerProgressHasUpdate: 1
   changeTab: 3
   activeTab: 3
   initProjectView:
@@ -493,9 +493,9 @@ MonoBehaviour:
     - name: origin/task-do-dia
       tracking: '[None]'
   changesView:
-    currentBranchHasUpdate: 0
+    currentBranchHasUpdate: 1
     currentStatusEntriesHasUpdate: 1
-    currentLocksHasUpdate: 0
+    currentLocksHasUpdate: 1
     commitBody: Jogo no Unity
     commitMessage: Colocando o jogo no unity
     currentBranch: '[master]'
@@ -873,13 +873,13 @@ MonoBehaviour:
       workTreeStatus: 1
     changedFilesText: 7 changed files
     lastCurrentBranchChangedEvent:
-      updatedTimeString: 2020-05-26T11:32:53.469-03:00
+      updatedTimeString: 2020-06-02T10:26:26.400-03:00
       cacheType: 1
     lastStatusEntriesChangedEvent:
-      updatedTimeString: 2020-05-26T14:04:52.915-03:00
+      updatedTimeString: 2020-06-02T10:26:26.516-03:00
       cacheType: 6
     lastLocksChangedEvent:
-      updatedTimeString: 2020-05-26T11:32:52.896-03:00
+      updatedTimeString: 2020-06-02T10:26:26.624-03:00
       cacheType: 7
   historyView:
     currentLogHasUpdate: 0
@@ -40413,20 +40413,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Objetos and Tiles
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Objetos and Tiles
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 7}
-    m_SelectedIDs: 70370000
-    m_LastClickedID: 14192
-    m_ExpandedIDs: 000000005e37000000ca9a3b
+    scrollPos: {x: 0, y: 19}
+    m_SelectedIDs: b6370000
+    m_LastClickedID: 14262
+    m_ExpandedIDs: 000000008c37000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -40454,7 +40454,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000005e370000
+    m_ExpandedIDs: 000000008c370000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -40481,7 +40481,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -40579,7 +40579,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 56fbffff
+      m_ExpandedIDs: 6efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -40639,9 +40639,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 24.271788, y: -2.2281976, z: -10.2044935}
+    m_Target: {x: 4.578848, y: 3.5492408, z: -16.33821}
     speed: 2
-    m_Value: {x: 24.322626, y: -1.945228, z: -10.119822}
+    m_Value: {x: 4.5479054, y: 3.4877918, z: -16.2902}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -40691,9 +40691,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 22.444601
+    m_Target: 11.142247
     speed: 2
-    m_Value: 23.5022
+    m_Value: 10.662437
   m_Ortho:
     m_Target: 1
     speed: 2
