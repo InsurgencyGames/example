@@ -28,7 +28,7 @@ public class InimigoHorizontal : MonoBehaviour
     private void Flip()
     {
       move *= -1;
-        spriterenderer.flipX = !spriterenderer.flipX;
+        GetComponent<SpriteRenderer>().flipX = !GetComponent<SpriteRenderer>().flipX;
         colidde = false;
     }
 
