@@ -69,6 +69,11 @@ public class MovimentoJogador : MonoBehaviour
             Destroy(collision2D.gameObject);
             gemas++;
             textGemas.text = gemas.ToString();
+            for (int gemas = 1; gemas<= 100 ; gemas++){
+                if(gemas % 5){
+                vida++;
+                }
+            }
         }
 
         if(collision2D.gameObject.CompareTag("Checkpoint")){

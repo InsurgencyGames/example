@@ -13,9 +13,543 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-06-09T14:56:30.064-03:00
-  initializedAtString: 2020-06-08T11:03:51.370-03:00
+  lastUpdatedAtString: 2020-06-12T16:57:39.756-03:00
+  initializedAtString: 2020-06-12T16:57:39.647-03:00
   log:
+  - commitID: 2999eea59b5572d8e40778d305a46b05c8f7fbe3
+    mergeA: 
+    mergeB: 
+    authorName: AlexandreARXS
+    authorEmail: alexandrearxs@gmail.com
+    commitEmail: alexandrearxs@gmail.com
+    commitName: AlexandreARXS
+    summary: "CORRE\xC7\xC3O_SCRIPT_INIMIGO"
+    description: 
+    timeString: 2020-06-12T11:36:35.000-03:00
+    commitTimeString: 2020-06-12T11:36:35.000-03:00
+    changes:
+    - path: Assets\Scenes\Scene3.unity
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Scenes\Scene3.unity
+      projectPath: Assets\Scenes\Scene3.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\InimigoHorizontal.cs
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Scripts\InimigoHorizontal.cs
+      projectPath: Assets\Scripts\InimigoHorizontal.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ArtifactDB
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Artifacts\27\2700ce9af25d766fd86303dc7276ad37
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\Artifacts\27\2700ce9af25d766fd86303dc7276ad37
+      projectPath: Library\Artifacts\27\2700ce9af25d766fd86303dc7276ad37
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\2a\2a72ea8da0f3dffada3b8dbc98be3a3b
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\Artifacts\2a\2a72ea8da0f3dffada3b8dbc98be3a3b
+      projectPath: Library\Artifacts\2a\2a72ea8da0f3dffada3b8dbc98be3a3b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\58\58d73f87ccb7a510e370156fe485df5b
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\Artifacts\58\58d73f87ccb7a510e370156fe485df5b
+      projectPath: Library\Artifacts\58\58d73f87ccb7a510e370156fe485df5b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\70\708fb03238c9b6d53f8dd0636b7f6f0c
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\Artifacts\70\708fb03238c9b6d53f8dd0636b7f6f0c
+      projectPath: Library\Artifacts\70\708fb03238c9b6d53f8dd0636b7f6f0c
+      originalPath: Library\Artifacts\b6\b68448d58d75e6ae6362744fe15fad6d
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\8e\8e2ce5798109d4e78c39cc0259f767ce
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\Artifacts\8e\8e2ce5798109d4e78c39cc0259f767ce
+      projectPath: Library\Artifacts\8e\8e2ce5798109d4e78c39cc0259f767ce
+      originalPath: Library\Artifacts\63\633287ca61372ba199abb0a8fc03592b
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\f6\f64bde2fe1f65c276be5f28cac7b271d
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\Artifacts\f6\f64bde2fe1f65c276be5f28cac7b271d
+      projectPath: Library\Artifacts\f6\f64bde2fe1f65c276be5f28cac7b271d
+      originalPath: Library\Artifacts\a2\a204387d27a077d88dc16c83b0d1444b
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Collab\CollabSnapshot_a75bd9f9-4414-43bf-99af-5906c5a4749b.txt
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\Collab\CollabSnapshot_a75bd9f9-4414-43bf-99af-5906c5a4749b.txt
+      projectPath: Library\Collab\CollabSnapshot_a75bd9f9-4414-43bf-99af-5906c5a4749b.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\EditorInstance.json
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.dll
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\ScriptAssemblies\Unity.Timeline.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.pdb
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\ScriptAssemblies\Unity.Timeline.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+      projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\ScriptAssemblies\UnityEditor.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\ScriptAssemblies\UnityEngine.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\Hierarchy\0961c0-mainStage.json
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\StateCache\Hierarchy\0961c0-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\0961c0-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\18f3e9-mainStage.json
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\StateCache\SceneView\18f3e9-mainStage.json
+      projectPath: Library\StateCache\SceneView\18f3e9-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-06e068d9017c9a643b1700e46d886c79
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Temp\UnityTempFile-06e068d9017c9a643b1700e46d886c79
+      projectPath: Temp\UnityTempFile-06e068d9017c9a643b1700e46d886c79
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-085c809616328da41aa1299ca661bee4
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Temp\UnityTempFile-085c809616328da41aa1299ca661bee4
+      projectPath: Temp\UnityTempFile-085c809616328da41aa1299ca661bee4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-0c061604d54f51c47b0b180ba14c5e1d
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Temp\UnityTempFile-0c061604d54f51c47b0b180ba14c5e1d
+      projectPath: Temp\UnityTempFile-0c061604d54f51c47b0b180ba14c5e1d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-11197e343d618e041a1f159c8f280497
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Temp\UnityTempFile-11197e343d618e041a1f159c8f280497
+      projectPath: Temp\UnityTempFile-11197e343d618e041a1f159c8f280497
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-1f944d34e3d400047a881deddc119884
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Temp\UnityTempFile-1f944d34e3d400047a881deddc119884
+      projectPath: Temp\UnityTempFile-1f944d34e3d400047a881deddc119884
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-22f1678c1bf52194fbc7a6b3082703aa
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Temp\UnityTempFile-22f1678c1bf52194fbc7a6b3082703aa
+      projectPath: Temp\UnityTempFile-22f1678c1bf52194fbc7a6b3082703aa
+      originalPath: Temp\UnityTempFile-030e755b1c04f0949aeffc1dd7829614
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-3d15584574868f047a6b2fd4d910ad69
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Temp\UnityTempFile-3d15584574868f047a6b2fd4d910ad69
+      projectPath: Temp\UnityTempFile-3d15584574868f047a6b2fd4d910ad69
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-42810e6dec5028040ae60389b767627d
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Temp\UnityTempFile-42810e6dec5028040ae60389b767627d
+      projectPath: Temp\UnityTempFile-42810e6dec5028040ae60389b767627d
+      originalPath: Temp\UnityTempFile-e8d9c2b66b5c58844b18da2bdbf6bf0d
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-446aca8d14c018e489cb9bd724d43a71
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Temp\UnityTempFile-446aca8d14c018e489cb9bd724d43a71
+      projectPath: Temp\UnityTempFile-446aca8d14c018e489cb9bd724d43a71
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-47171abcf0f41a34789268f00d64e1e1
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Temp\UnityTempFile-47171abcf0f41a34789268f00d64e1e1
+      projectPath: Temp\UnityTempFile-47171abcf0f41a34789268f00d64e1e1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-5983712aed99c0e4a9aab3618f4f6d19
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Temp\UnityTempFile-5983712aed99c0e4a9aab3618f4f6d19
+      projectPath: Temp\UnityTempFile-5983712aed99c0e4a9aab3618f4f6d19
+      originalPath: Temp\UnityTempFile-cadefa1f72a7ee348a99b7293cfbb160
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-65946acf73a83244b9672d65b68e1064
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Temp\UnityTempFile-65946acf73a83244b9672d65b68e1064
+      projectPath: Temp\UnityTempFile-65946acf73a83244b9672d65b68e1064
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-6681fb31939c6d2489e0777fb0dec54e
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Temp\UnityTempFile-6681fb31939c6d2489e0777fb0dec54e
+      projectPath: Temp\UnityTempFile-6681fb31939c6d2489e0777fb0dec54e
+      originalPath: Temp\UnityTempFile-b1b23418155a3c948820f8b5f8e23dd5
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-76aa4f1645155b94e9bb3000c37a7e88
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Temp\UnityTempFile-76aa4f1645155b94e9bb3000c37a7e88
+      projectPath: Temp\UnityTempFile-76aa4f1645155b94e9bb3000c37a7e88
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-d795e5826b3b8ed4a8076d940a7e3aa6
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Temp\UnityTempFile-d795e5826b3b8ed4a8076d940a7e3aa6
+      projectPath: Temp\UnityTempFile-d795e5826b3b8ed4a8076d940a7e3aa6
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-e3206a9f2f925bf4fb898a7b0dc6383f
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Temp\UnityTempFile-e3206a9f2f925bf4fb898a7b0dc6383f
+      projectPath: Temp\UnityTempFile-e3206a9f2f925bf4fb898a7b0dc6383f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-e9fb4256ded1f3343b550f0c3b38c3ec
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Temp\UnityTempFile-e9fb4256ded1f3343b550f0c3b38c3ec
+      projectPath: Temp\UnityTempFile-e9fb4256ded1f3343b550f0c3b38c3ec
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-fe154828b13e6864e94e70cc5f503aa2
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Temp\UnityTempFile-fe154828b13e6864e94e70cc5f503aa2
+      projectPath: Temp\UnityTempFile-fe154828b13e6864e94e70cc5f503aa2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\__Backupscenes\0.backup
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Temp\__Backupscenes\0.backup
+      projectPath: Temp\__Backupscenes\0.backup
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 5d3b2aec2d68c51b0c8be4448e30f9ea8ad4e8c6
+    mergeA: 
+    mergeB: 
+    authorName: AlexandreARXS
+    authorEmail: alexandrearxs@gmail.com
+    commitEmail: alexandrearxs@gmail.com
+    commitName: AlexandreARXS
+    summary: Script inimigo n finalizada
+    description: 
+    timeString: 2020-06-10T10:10:24.000-03:00
+    commitTimeString: 2020-06-10T10:10:24.000-03:00
+    changes:
+    - path: Assets\Scenes\Scene3.unity
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Scenes\Scene3.unity
+      projectPath: Assets\Scenes\Scene3.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\InimigoHorizontal.cs
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Assets\Scripts\InimigoHorizontal.cs
+      projectPath: Assets\Scripts\InimigoHorizontal.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ArtifactDB
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Artifacts\58\58d73f87ccb7a510e370156fe485df5b
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\Artifacts\58\58d73f87ccb7a510e370156fe485df5b
+      projectPath: Library\Artifacts\58\58d73f87ccb7a510e370156fe485df5b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\63\633287ca61372ba199abb0a8fc03592b
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\Artifacts\63\633287ca61372ba199abb0a8fc03592b
+      projectPath: Library\Artifacts\63\633287ca61372ba199abb0a8fc03592b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\a2\a204387d27a077d88dc16c83b0d1444b
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\Artifacts\a2\a204387d27a077d88dc16c83b0d1444b
+      projectPath: Library\Artifacts\a2\a204387d27a077d88dc16c83b0d1444b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\b6\b68448d58d75e6ae6362744fe15fad6d
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\Artifacts\b6\b68448d58d75e6ae6362744fe15fad6d
+      projectPath: Library\Artifacts\b6\b68448d58d75e6ae6362744fe15fad6d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Collab\CollabSnapshot_a75bd9f9-4414-43bf-99af-5906c5a4749b.txt
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\Collab\CollabSnapshot_a75bd9f9-4414-43bf-99af-5906c5a4749b.txt
+      projectPath: Library\Collab\CollabSnapshot_a75bd9f9-4414-43bf-99af-5906c5a4749b.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-030e755b1c04f0949aeffc1dd7829614
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Temp\UnityTempFile-030e755b1c04f0949aeffc1dd7829614
+      projectPath: Temp\UnityTempFile-030e755b1c04f0949aeffc1dd7829614
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-b1b23418155a3c948820f8b5f8e23dd5
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Temp\UnityTempFile-b1b23418155a3c948820f8b5f8e23dd5
+      projectPath: Temp\UnityTempFile-b1b23418155a3c948820f8b5f8e23dd5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-cadefa1f72a7ee348a99b7293cfbb160
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Temp\UnityTempFile-cadefa1f72a7ee348a99b7293cfbb160
+      projectPath: Temp\UnityTempFile-cadefa1f72a7ee348a99b7293cfbb160
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-e9fb4256ded1f3343b550f0c3b38c3ec
+      fullPath: C:\Users\Alexa\OneDrive\Documents\GitHub\example\Temp\UnityTempFile-e9fb4256ded1f3343b550f0c3b38c3ec
+      projectPath: Temp\UnityTempFile-e9fb4256ded1f3343b550f0c3b38c3ec
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
   - commitID: 1529313241ee3efdca2a75042948fe8b256e6c3e
     mergeA: 
     mergeB: 
