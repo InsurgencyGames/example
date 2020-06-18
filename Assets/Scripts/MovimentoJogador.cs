@@ -18,6 +18,10 @@ public class MovimentoJogador : MonoBehaviour
 
     public GameObject lastCheckpoint;
 
+
+    int gemas = 0;
+    bool b = Convert.ToBoolean(gemas);
+    
     void Start()
     {
         textLives.text = vida.ToString();
