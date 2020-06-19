@@ -19,8 +19,8 @@ public class MovimentoJogador : MonoBehaviour
     public GameObject lastCheckpoint;
 
 
-    int gemas = 0;
-    bool b = Convert.ToBoolean(gemas);
+   // int gemas = 0;
+    //bool b = Convert.ToBoolean(gemas);
     
     void Start()
     {
@@ -73,11 +73,11 @@ public class MovimentoJogador : MonoBehaviour
             Destroy(collision2D.gameObject);
             gemas++;
             textGemas.text = gemas.ToString();
-            for (int gemas = 1; gemas<= 100 ; gemas++){
+           // for (int gemas = 1; gemas<= 100 ; gemas++){
                 if(gemas % 5){
                 vida++;
                 }
-            }
+            //}
         }
 
         if(collision2D.gameObject.CompareTag("Checkpoint")){
