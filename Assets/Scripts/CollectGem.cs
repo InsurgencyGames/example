@@ -11,11 +11,4 @@ public class CollectGem : MonoBehaviour {
             Destroy(other.gameObject);
         }
     }
-
-    //void onTriggerEnter2D(Collider2D target) {
-        //Debug.Log(target.gameObject.tag);
-        //if (target.gameObject.tag == "player"){
-        //    Destroy(gameObject);
-      //  }
-    //}
 }

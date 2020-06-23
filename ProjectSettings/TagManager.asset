@@ -12,6 +12,7 @@ TagManager:
   - Trampolim
   - Checkpoint
   - KillZone
+  - Vida
   layers:
   - Default
   - TransparentFX
